@@ -1,4 +1,4 @@
-package TestClasses;
+package testClasses;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;

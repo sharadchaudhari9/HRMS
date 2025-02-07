@@ -1,4 +1,4 @@
-package TestClasses;
+package testClasses;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,7 +8,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import BaseClasses.Pojo_Class;
+import baseClasses.Pojo_Class;
 import pomClasses.UserManagementPage;
 import pomClasses.HomePage;
 import pomClasses.LoginPage;
