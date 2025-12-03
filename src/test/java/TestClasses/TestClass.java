@@ -18,16 +18,6 @@ public class TestClass
 		
 		driver.navigate().to("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		
-		//Verify login functionality
-//		
-//		LoginPage login = new LoginPage(driver);
-//		login.sendUserName();
-//		login.sendPassword();
-//		login.clickOnLoginButton();
-		
-
-		
-		
 	}
 
 
