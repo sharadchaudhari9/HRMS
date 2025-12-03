@@ -25,12 +25,7 @@ public class TestClass
 //		login.sendPassword();
 //		login.clickOnLoginButton();
 		
-		//verify homePage fuctionality
-		
-//		HomePage home = new HomePage(driver);
-//		home.verifyAdminTab();
-//		home.verifyPTMTab();
-//		home.verifyLeaveTab();
+
 		
 		
 	}
